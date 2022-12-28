@@ -1,0 +1,170 @@
+
+
+	--- The droidling projects purpose is to create the basis for the STC project while also giving the common person a low barrier of entry to the new AI driven marketplace of the 4th industrial revolution.
+	
+	This is done through the use of modularized components designed to be simple and easily manufactored/programmed. The goal is to then allow for easy creation of designs for machines. A marketplace will be provided where individuals can list parts either salvaged or created. 
+	
+	The end result being the creation of an ecosystem friendly to the individual. Similar to Etsy and their low barrier of entry for small artisan shops. If the ecosystem can be established then a small fee will be taken from each transaction to fuel the organization. 
+	
+	These are the ways in which people can engage in the marketplace.
+	(1) Creating blueprints to put on the market. 
+	(2) Creating components and listing/selling them.
+	(3) Salvaging components and listing/selling them.
+	(4) Assembling ordered blueprints from parts on hand or shipped in.
+	(5) Acting as a delivery person should someone order materials.
+	(6) Assembling and selling whole machines dealership style.
+	(7) Maintaining/repairing machinery with a shop/mobile shop.
+	(8) Buying machines that have a range of benefits over proprietary.
+	(9) Trading goods from warehouse to warehouse for profit.
+	
+	(1) Creating blueprints to put on the market. 
+	
+	All the Dev Tools will be built to be intuitive as possible while being as powerful as possible. The Dev Tools and all documentation/training materials will be free and open source to members and non-members. This will hopefully lower the barrier of entry as much as can be done realistically. Although attempts to lower it further will not be stopped regardless.
+	
+	Once comfortable with the tools one should be able to craft droidlings and test them in a virtual environment. Or create software utilizing machine learning. Either way once created the result can be listed on the market to generate revenue for the individual whenever purchased. 
+	
+	There will also be a section where blueprints can be requested by companies/individuals. They may or may not include time constraints and a payment if the request is fulfilled. Even the raw idea dumps will still provide insight into a potential market and give incentive to create a new design.
+	
+	(2) Creating components and listing/selling them.
+	
+	All the part specifications will be freely available. The parts are intended to be built with the minimal tools and simplest designs practical. All circuits and other devices that make up droidlings will have their schematics available. Machines for manufactor of parts will have their plans available.
+	
+	With the knowledge of the specifications and machines someone with shop experience or electronics experience should be able to create materials to sell. Whether it's motor mounting plates or ID Adress circuit modules practical skills will allow entry to the market.
+	
+	(3) Salvaging components and listing/selling them.
+	
+	If someone is a junkrat or likes the idea of recycling high tech items then salvaging parts will grant an entry to the market. Things such as motors and displays will likely be common demand items. This would be similar to scrapping but with slightly higher returns for the extra effort.
+	
+	(4) Assembling ordered blueprints from parts on hand or shipped in.
+	
+	Should a blueprint buyer not be interested in constructing the machine themselves they can order it assembled. This would route the materials and blueprints to a registered assembler that meets the criteria of the order. Once assembled the droidling will then be delivered to the customer. This will allow someone with nothing more than some basic tools and an address to generate an income.
+	
+	(5) Acting as a delivery person should someone order materials.
+	
+	Whenever materials are ordered or droidlings shipped then someone needs to be available to move the items. This is where people can register as delivery people and get paid for moving goods around. Someone with a truck and trailer would have an excellent oppurtunity to generate an income. Many areas may not have delivery people available so if someone were willing to drive there may be incentive and oppurtunity there as well.
+	
+	(6) Assembling and selling whole machines dealership style.
+	
+	If you live in an area with a large market you can aim for then buying and assembling a series of common machines might be a good way to go. For example you could order and create a bunch of lawn mowing bots if you think they will sell goods in your area. This would be the way to include droidlings in a traditional dealerships lineup as well. Someone who had a workshop and property to store/display completed machines could operate as more than just a dealer. Assembling on demand orders, repairing machines, selling parts, or registering as a warehouse and having parts on hand to sell/buy are some other ways once a workshop and property are secured. 
+	
+	(7) Maintaining/repairing machinery with a shop/mobile shop.
+	
+	Parts will be designed to be as simple as possible using as few specialized tools as possible. This will allow the standard mechanics toolset to work on anything built with STC templates. Blueprint training will be available so that getting certified will be as easy and painless as possible while still training the individual to a satisfactory level. There will of course be a test to certify on the spot instead of taking the class first. Once trained and certified and individual can register as a technition and either seek employment or one off gigs for emergency repair. All an individual needs to secure an income are tools and transportation.
+	
+	(8) Buying machines that have a range of benefits over proprietary.
+	
+	If you run a business there are several benefits to buying through the marketplace. Admittedly there are some cons as well. The benefits include but are not limited to: getting machines made of easily sourced parts, machines will be easily servicable, locally sourced, you choose the quality of the parts, no proprietary expensive components, one centralized source for everything to do with your machine, easily upgradable, and possibly more.
+	
+	The parts are made from STC specifications and designed to be as simple and easy to manufacture as possible. This will mean that you can either buy them easiy or create them if need be. For example, a farm likely has a basic machine shop where most STC parts should be easily created in a pinch. For time critical roles such in agriculture the difference between being able to weld a part together on the spot vs ordering one at a dealership can make a huge impact. In the case of agriculture it could mean you missed your window for harvesting crops at the ideal time and took a significant loss in feed value.
+	
+	Machines made with the STC specifications will have common parts making them easily servicable with basic tools. Furthermore when ordering the machine you should receive a copy of the blueprints which details every single aspect of the machine. This information will make servicing much easier when determining how to fix a problem. Combined with the easily sourced parts the time to get something up and running will be much shorter than with proprietary parts you may not have on hand.
+	
+	When buying machinery or parts you are likely sourcing locally. This will depend on whether anyone in your area offers the materials. If there is a manufacturing presence near you then the parts will be sourced from them in all likelyhood. This will help stimulate the local economy and give your company good publicity should you use that angle. 
+	
+	When ordering a machine you can choose the parts to buy. The autopicker will fill your order according to the filters in place should you choose that route. But either way before you place your order you can swap out parts manufacturers. This will let you cheap out if the bot will be light duty or out of sight. Or you can buy really heavy parts if you want it to last. You get what you pay for essentially. 
+	
+	All components in STC machinery are open source and designed to require as few tools as practical to manufacture. This keeps the cost down compared to expensive proprietary components. On top of this the components can be sourced more easily as manufacturing is distributed. 
+	
+	Whether you are browsing for blueprint mods for your machine, material upgrades, looking for a repairman, or discussing the machine with others you can do it all in one place. The website provides everything you need to work with your machines at any level. 
+	
+	(9) Trading goods from warehouse to warehouse for profit.
+	
+	There will likely be areas where some materials are in abundance and others are scarce. Because the market tries to source locally this will create oppurtunities where the price difference between two different geographical regions is high enough to make a profit buying them at one location and selling them in another. 
+	
+	--- Most projects will be focused on creating tools for members to use. These tools where possible may be used to generate revenue to help fund the projects. For example, using a market prediction application to run investments or offer predictions with a subscription model.
+	
+	--- The spefication archive is meant to provide all specifications needed to use blueprints and create droidlings.
+	--Every system is described down to the basic components and is completely open source.
+	
+	
+	
+	
+	
+	
+	
+	//==--  Systems To Implement  --==//
+--Peoples Protocol, encompasses Droidlings and other platforms
+	--Droidlings
+		--Full Stack Droidling Platform:
+			--Droidling STC Platform: Provides an easy to manufacture, design, and assemble droidling from circuit to shell to software. Standardized templates/API.
+				-STC Physical Shell Specifications
+				-STC uses components with dimensions that increase geometrically, such as those generated by the following formula: Length(n) = sqrt(Length(n-1)^2 + Length(n-2)^2)
+				-This formula generates a series of lengths that increase in a geometric progression, starting with two base lengths. This can be useful for creating a modular system because it allows for a range of sizes that can be easily assembled and disassembled as needed.
+				-In addition to the formula, a transformation matrix can be used to step up or down from a reference length "c." The transformation matrix for stepping up from a reference length "c" is as follows: [c, sqrt(c^2 + c^2), sqrt(sqrt(c^2 + c^2)^2 + sqrt(c^2 + c^2)^2), ...]
+				-And the transformation matrix for stepping down from a reference length "c" is: [c, c/sqrt(2), c/(sqrt(2)^2), ...]
+				-Using these formulas and transformation matrices, it is possible to create a modular system with a wide range of component sizes that can be easily assembled and disassembled as needed.
+				-Standardized framework and bolts patterns to make parts as modular as possible.
+				-Standardized mounting plates with enough wiggle room to accomodate common standards.
+			-Software
+				-STC Software Engine NT.3
+				-Open source software device drivers for different systems such as Linux/Windows/Mac.
+				-NeuroTox.3.0 open source Deep learning engine.
+					-Windows Support
+					-Linux Support
+					-Mac Support
+			-Circuitry/Electrical
+				-General purpose physical device driver circuits for most common things such as stepper motors or lights.
+				-Common Device Controllers
+				-STC Data Transmission Specifications
+				-STC Circuit Modules
+				-STC Network Modules
+			-Blueprint STC System
+				-STC Blueprint Format: The format of the blueprints that encapsulate a droidlings electrical system, software structure, and physical construction.
+				-Open source circuit diagrams for all base electronic modules.
+				-Blueprint design for easy managing/editing/sharing/printing/reading.
+				-Charts for materials and strength guestimates. Used to determine if a part can be substituted. Also used in stress calculation sim.
+				-2D/3D/VR IDE for designing and testing virtual Droidlings before building and testing IRL.
+					-Includes physical structure simulation/circuit simulation/software simulation in IDE.
+				-Easy installer for simplest setup possible. Trying to lower barrier to entry as much as possible.
+				-Every physical part from circuit modules to metal struts that are adopted into the standard are assigned a unique ID.
+				-Droidling STC Developement Platform: A series of tools and IDEs that simplify design as much as possible and can export blueprints.
+				-Dev Tools
+					-manuals:
+						-NT.3 Engine CMD Text Reference
+						-KDS Specifications
+					-Script Writer with warcraft 3 style editor
+					-Physics based editor/sim to test droidlings in a simulated environment
+						-VR support for simulation and editor
+						-Can run the NT.3 networks in sim.
+					-Blueprint reader
+						-Open blueprints to see contents
+						-Print circuits/diagrams from BP
+						-Load BP into editor to simulate it.
+		--Market Platform: To provide a marketplace where anyone can design, sell, manufacture, or buy droidlings with minimum barrier to entry.
+			-Marketplace Back-End
+				-Marketplace API
+				-Marketplace DBs
+					-Accounts
+					-Listings
+					-Transactions
+					-Security
+				-Marketplace ECommerce Handling
+				-Marketplace Structure
+			-Marketplace Front-End
+			-Marketplaces Implemented
+				--Blueprint Market
+				--Assembler Market
+				--Materials Market
+					--White Market (Verified Items Only/Newly Manufactored)
+					--Black Market (Salvaged Parts/Questionable Quality)
+				--Shippers Market
+			-The market you can post on is determined by some factor such as your average review rating & the amount of time you've gone with selling good quality items. Samples will still be tested.
+			-An easy way to do transactions with as few pinch points as possible.
+			-A way to apply a fee to each transaction.
+			-A standardized martketplace API
+			-Using standard API construct the marketplaces the Business model shows are needed.
+			-SO far these are:
+				-Blueprint Market
+				-Assembler Market
+				-Materials Market
+					-White Market (Verified Items Only/Newly Manufactored)
+					-Black Market (Salvaged Parts/Questionable Quality)
+				-Shippers Market
+			-Remove the hurdle of picking all parts yourself and build a tool to route the best deals to build a droidling in one click. Include filters like Black Market/White Market.
+			-Market is constructed like the Auctionhouse in Runes Of Magic.
+				-Each Item is assigned an ID or uses the SKU if salvaged/manufactured.
+			-The warehouse drop off points have tester for the common motors and circuits found. Because of this the materials people are selling must  be in a testable condition. Wires intact and things like that.
+		--Business Loop Model
+			--Applied to Market Platform
+			--Applied to every platform where possible 
+			--One main one that is the master and constantly updated and reevaluated.
